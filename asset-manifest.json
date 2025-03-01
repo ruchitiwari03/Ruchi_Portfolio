@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ruchitiwari03/Ruchi_Portfolio/static/css/main.80645761.css",
-    "main.js": "/ruchitiwari03/Ruchi_Portfolio/static/js/main.24893d19.js",
-    "static/js/453.298f5782.chunk.js": "/ruchitiwari03/Ruchi_Portfolio/static/js/453.298f5782.chunk.js",
-    "static/media/CentraNo2-Bold.ttf": "/ruchitiwari03/Ruchi_Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/ruchitiwari03/Ruchi_Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/ruchitiwari03/Ruchi_Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/contact-img.svg": "/ruchitiwari03/Ruchi_Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
-    "static/media/revicons.eot": "/ruchitiwari03/Ruchi_Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/ruchitiwari03/Ruchi_Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/ruchitiwari03/Ruchi_Portfolio/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/nav-icon2.svg": "/ruchitiwari03/Ruchi_Portfolio/static/media/nav-icon2.25c9b99fb6382485622c78c3c1590219.svg",
-    "static/media/nav-icon5.svg": "/ruchitiwari03/Ruchi_Portfolio/static/media/nav-icon5.72fc347898513a9f10b19fca52a4420c.svg",
-    "static/media/nav-icon3.svg": "/ruchitiwari03/Ruchi_Portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "index.html": "/ruchitiwari03/Ruchi_Portfolio/index.html",
-    "static/media/nav-icon4.svg": "/ruchitiwari03/Ruchi_Portfolio/static/media/nav-icon4.db93b408716cc74d87d9a0eb26e002ba.svg",
-    "static/media/nav-icon1.svg": "/ruchitiwari03/Ruchi_Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.80645761.css.map": "/ruchitiwari03/Ruchi_Portfolio/static/css/main.80645761.css.map",
-    "main.24893d19.js.map": "/ruchitiwari03/Ruchi_Portfolio/static/js/main.24893d19.js.map",
-    "453.298f5782.chunk.js.map": "/ruchitiwari03/Ruchi_Portfolio/static/js/453.298f5782.chunk.js.map"
+    "main.css": "/Ruchi_Portfolio/static/css/main.9c2e9be5.css",
+    "main.js": "/Ruchi_Portfolio/static/js/main.5023cb99.js",
+    "static/js/453.298f5782.chunk.js": "/Ruchi_Portfolio/static/js/453.298f5782.chunk.js",
+    "static/media/CentraNo2-Bold.ttf": "/Ruchi_Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Ruchi_Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Ruchi_Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/Ruchi_Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/Ruchi_Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Ruchi_Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Ruchi_Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon2.svg": "/Ruchi_Portfolio/static/media/nav-icon2.25c9b99fb6382485622c78c3c1590219.svg",
+    "static/media/nav-icon5.svg": "/Ruchi_Portfolio/static/media/nav-icon5.72fc347898513a9f10b19fca52a4420c.svg",
+    "static/media/nav-icon3.svg": "/Ruchi_Portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/Ruchi_Portfolio/index.html",
+    "static/media/nav-icon4.svg": "/Ruchi_Portfolio/static/media/nav-icon4.db93b408716cc74d87d9a0eb26e002ba.svg",
+    "static/media/nav-icon1.svg": "/Ruchi_Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.9c2e9be5.css.map": "/Ruchi_Portfolio/static/css/main.9c2e9be5.css.map",
+    "main.5023cb99.js.map": "/Ruchi_Portfolio/static/js/main.5023cb99.js.map",
+    "453.298f5782.chunk.js.map": "/Ruchi_Portfolio/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80645761.css",
-    "static/js/main.24893d19.js"
+    "static/css/main.9c2e9be5.css",
+    "static/js/main.5023cb99.js"
   ]
 }
