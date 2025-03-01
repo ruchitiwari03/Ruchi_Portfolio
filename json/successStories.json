@@ -2,13 +2,25 @@
   {
     "title": "VIHAN 007",
     "description": "Won the 'Best IEEE Award' in North India's biggest hackathon for the Global Unified Accident Response Device (G.U.A.R.D.) project.",
-    "imgUrl": "",
+    "imgUrl": "https://res.cloudinary.com/dnekhn25e/image/upload/v1740153097/Vihaan_zwe7jx.png",
     "link": ""
   },
   {
     "title": "HIS 2.0",
     "description": "Secured the 5th rank in Rajasthan's largest hackathon for the innovative RoboCop highway safety project.",
-    "imgUrl": "https://res.cloudinary.com/dxh9tugzx/image/upload/v1740052105/HIS2.0_fpxhyg_tarqzm.jpg",
+    "imgUrl": "https://res.cloudinary.com/dnekhn25e/image/upload/v1740150932/HIS2.0_fpxhyg_tarqzm_b02gkn.jpg",
+    "link": ""
+  },
+  {
+    "title": "Achiever Award",
+    "description": "Honoured to get an Achiever's Award in Chandigarh Univertiy ",
+    "imgUrl": "https://res.cloudinary.com/dnekhn25e/image/upload/v1740153282/Achievers_CU_zea633.png",
+    "link": ""
+  },
+  {
+    "title": "Orientation Speaker",
+    "description": "I got a chance to speak in CU as a Orientation Speaker",
+    "imgUrl": "https://res.cloudinary.com/dnekhn25e/image/upload/v1740153688/Orientation_speech_f95sad.png",
     "link": ""
   }
 ]
