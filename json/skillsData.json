@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "progress": 85
+    },
+    {
+      "name": "Statistics",
+      "progress": 85
+    },
+    {
+      "name": "Python Development",
+      "progress": 85
+    },
+    {
+      "name": "ML Research",
+      "progress": 90
+    },
+    {
+      "name": "Object Detection",
+      "progress": 95
+    }
+  ]
+}
